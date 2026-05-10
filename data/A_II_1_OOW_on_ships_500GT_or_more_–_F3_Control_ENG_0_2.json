@@ -1,27 +1,5 @@
 [
     {
-        "question": "QUESTION",
-        "answers": [
-            {
-                "text": "ANSWER (a)",
-                "correct": false
-            },
-            {
-                "text": "ANSWER (b)",
-                "correct": false
-            },
-            {
-                "text": "ANSWER (c)",
-                "correct": false
-            },
-            {
-                "text": "ANSWER (d)",
-                "correct": false
-            }
-        ],
-        "image": null
-    },
-    {
         "question": "The ship's Oil Record Books are",
         "answers": [
             {
@@ -11466,7 +11444,7 @@
         "answers": [
             {
                 "text": "72 hours after the incident",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "2 hours",
@@ -11488,7 +11466,7 @@
         "answers": [
             {
                 "text": "Provision of free and passable airways",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "blood pressure measurement",
@@ -11518,7 +11496,7 @@
             },
             {
                 "text": "all symptoms of shock from blood loss",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "low body temperature",
@@ -11554,7 +11532,7 @@
         "answers": [
             {
                 "text": "Hot, red skin",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "pale, cold skin",
@@ -11576,7 +11554,7 @@
         "answers": [
             {
                 "text": "can lead to permanent disability and / or death",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "are very common",
@@ -11606,7 +11584,7 @@
             },
             {
                 "text": "placed on a hard surface",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "in posture convenient to carry",
@@ -11624,7 +11602,7 @@
             },
             {
                 "text": "four tablets",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "six tablets",
@@ -11650,7 +11628,7 @@
             },
             {
                 "text": "4-5 cm",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "5-10 cm",
@@ -11664,7 +11642,7 @@
         "answers": [
             {
                 "text": "30:2",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "5:1",
@@ -11694,7 +11672,7 @@
             },
             {
                 "text": "5 minutes",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "45 sec",
@@ -11712,7 +11690,7 @@
             },
             {
                 "text": "Let him lie down and raise  legs 30-45 cm",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "call his friends",
@@ -11730,7 +11708,7 @@
         "answers": [
             {
                 "text": "direct pressure; elevation; direct press on a pressure points; Putting a tourniquet",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Place a sterile dressing",
@@ -11756,7 +11734,7 @@
             },
             {
                 "text": "remove the victim and wrap it in wet sheets",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "provide cotton clothes",
@@ -11764,7 +11742,7 @@
             },
             {
                 "text": "put ice on the armpits",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -11774,7 +11752,7 @@
         "answers": [
             {
                 "text": "drink alcohol",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Remove the wet clothes and wrap with a blanket",
@@ -11796,7 +11774,7 @@
         "answers": [
             {
                 "text": "Blisters",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "red, itchy skin",
@@ -11818,7 +11796,7 @@
         "answers": [
             {
                 "text": "24 hours",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "1 year",
@@ -11843,8 +11821,8 @@
                 "correct": false
             },
             {
-                "text": "weakness; cool, pale, sticky skin; accelerated or slow heart rate; ",
-                "correct": false
+                "text": "weakness; cool, pale, sticky skin; accelerated or slow heart rate;                Shallow, uneven breathing; low blood pressure",
+                "correct": true
             },
             {
                 "text": "disturbed consciousness",
@@ -11870,7 +11848,7 @@
             },
             {
                 "text": "30 minutes",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "15 minutes",
@@ -11884,7 +11862,7 @@
         "answers": [
             {
                 "text": "8-10 liters per minute",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "1-2 liters per minute",
@@ -11910,7 +11888,7 @@
             },
             {
                 "text": "“ rule of the nines“",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Putting the palm on the burned surfaces",
@@ -11936,7 +11914,7 @@
             },
             {
                 "text": "to wash thoroughly with lukewarm water",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "to apply an antidote",
@@ -11954,7 +11932,7 @@
             },
             {
                 "text": "milk, egg white, baking soda",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "activated carbon",
@@ -11984,7 +11962,7 @@
             },
             {
                 "text": "everything listed here",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -12002,7 +11980,7 @@
             },
             {
                 "text": "area, depth - degree, accompanying diseases, age of the patient",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "the depth of incineration and the age of the patient",
@@ -12016,7 +11994,7 @@
         "answers": [
             {
                 "text": "5 atm.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "4 atm.",
@@ -12050,7 +12028,7 @@
             },
             {
                 "text": "Up to 30 people / 7 days",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -12068,7 +12046,7 @@
             },
             {
                 "text": "30 days",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "3 months",
@@ -12082,7 +12060,7 @@
         "answers": [
             {
                 "text": "fast breathing, slow or fast pulse, later open-mouth breathing and blood pressure values ​​that are   initially elevated and then declining",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "increased blood pressure, dizziness, staggering",
@@ -12116,7 +12094,7 @@
             },
             {
                 "text": "all listed here",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -12126,7 +12104,7 @@
         "answers": [
             {
                 "text": "Life Boats, Life Rafts, Rescue Boats;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Life Rafts, Life buoys, Life Boats;",
@@ -12152,7 +12130,7 @@
             },
             {
                 "text": "For at least 8 minutes;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "The boat will start burning;",
@@ -12182,7 +12160,7 @@
             },
             {
                 "text": "Up to 18 meters.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -12200,7 +12178,7 @@
             },
             {
                 "text": "All survivors designed for and the equipment;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Must be abandoned.",
@@ -12222,7 +12200,7 @@
             },
             {
                 "text": "List 20° and trim 10°;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "List 50° and trim 30°.",
@@ -12240,7 +12218,7 @@
             },
             {
                 "text": "Life Jackets, Thermal protective aids, Immersion suits, Life Buoys;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Floating arrangements, Life Jackets, Life Rafts;",
@@ -12262,7 +12240,7 @@
             },
             {
                 "text": "Carbon dioxid (CO2)",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Nitrogen (N)",
@@ -12288,7 +12266,7 @@
             },
             {
                 "text": "Good visible color;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Green and blue colors.",
@@ -12306,7 +12284,7 @@
             },
             {
                 "text": "All Survival Craft and Lifebuoys;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Only the Life Boats;",
@@ -12328,7 +12306,7 @@
             },
             {
                 "text": "All the Life and Safety equipment;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Only the personal equipment;",
@@ -12354,7 +12332,7 @@
             },
             {
                 "text": "From up to 2 meters height;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "From up to 10 meters height;",
@@ -12376,7 +12354,7 @@
             },
             {
                 "text": "It must be turned upright and used;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "It must be deflated.",
@@ -12390,7 +12368,7 @@
         "answers": [
             {
                 "text": "The Master of the ship only;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "The First Mate – Chief officer;",
@@ -12416,7 +12394,7 @@
             },
             {
                 "text": "To the Life Boat in accordance with the Muster List;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "The Chief officer distributes the people;",
@@ -12434,7 +12412,7 @@
         "answers": [
             {
                 "text": "When the Life Boat is in the trough of the waves;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "It doesn’t matter anywhere;",
@@ -12460,7 +12438,7 @@
             },
             {
                 "text": "Diesel engines.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Petrol engines.",
@@ -12490,7 +12468,7 @@
             },
             {
                 "text": "3.0 liters per person for all survival period.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -12508,7 +12486,7 @@
             },
             {
                 "text": "1.5 liters per person for all survival period;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "2.0 liters per person for all survival period.",
@@ -12530,21 +12508,21 @@
             },
             {
                 "text": "Trow over inflatable Life Raft.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Rescue Capsul.",
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_581.png"
+        "image": null
     },
     {
         "question": "What is the correct survival regulation about food rations in the Life Raft?",
         "answers": [
             {
                 "text": "No food and water should be consumed in the first 24 hours;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Lifeboat Commander distributes first ration ASAP after boarding;",
@@ -12574,14 +12552,14 @@
             },
             {
                 "text": "Operating lever for lovering of Life Boat;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "“Stop” device for cargo davit.",
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_583.png"
+        "image": null
     },
     {
         "question": "How can you jump with Lifebuoys in to the water?",
@@ -12592,7 +12570,7 @@
             },
             {
                 "text": "Throw the Lifebuoy and jump next to it legs first;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "ASAP in emergency situation;",
@@ -12610,7 +12588,7 @@
         "answers": [
             {
                 "text": "Place for boarding and embarking with Life Boat No 3;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Deck No 3;",
@@ -12625,7 +12603,7 @@
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_585.png"
+        "image": null
     },
     {
         "question": "You must wear the Life Jacket:",
@@ -12636,7 +12614,7 @@
             },
             {
                 "text": "After the General alarm signal;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Immediately after emergency;",
@@ -12662,7 +12640,7 @@
             },
             {
                 "text": "Yes. Press the Life Jacket to the body, take a deep breadth, close nose, mouth and eyes, jump legs first;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Jump back.",
@@ -12684,14 +12662,14 @@
             },
             {
                 "text": "Place where is located your Lifejacket;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Rigit Lifefloat.",
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_589.png"
+        "image": null
     },
     {
         "question": "If the Life Raft is turned upside – down:",
@@ -12710,7 +12688,7 @@
             },
             {
                 "text": "It must be turned upright and used.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -12724,7 +12702,7 @@
             },
             {
                 "text": "Start key or buton for the engine;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Handel for starting of inflation of Life Raft;",
@@ -12735,14 +12713,14 @@
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_591.png"
+        "image": null
     },
     {
         "question": "The Pyrotechnic equipment must be used:",
         "answers": [
             {
                 "text": "Only if we observe Rescue ships or other potentional rescuers in vicinity;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Every  20 – 30 minutes;",
@@ -12776,10 +12754,10 @@
             },
             {
                 "text": "Location of your Immersion suit.",
-                "correct": false
+                "correct": true
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_593.png"
+        "image": null
     },
     {
         "question": "From which side of the boat should pyrotechnics be used?",
@@ -12794,7 +12772,7 @@
             },
             {
                 "text": "From leeward side;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "From convenient side.",
@@ -12808,7 +12786,7 @@
         "answers": [
             {
                 "text": "Termal protective aid;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Working overalls;",
@@ -12823,7 +12801,7 @@
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_595.png"
+        "image": null
     },
     {
         "question": "\"Abandon ship\" command must be given by:",
@@ -12834,7 +12812,7 @@
             },
             {
                 "text": "The Master of the ship;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "The First Mate – Chief officer;",
@@ -12864,10 +12842,10 @@
             },
             {
                 "text": "Release handle for the hooks of the Launching devices.",
-                "correct": false
+                "correct": true
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_597.png"
+        "image": null
     },
     {
         "question": "In heavy weather the hooks for launching the Life Boat must be released as follows:",
@@ -12878,7 +12856,7 @@
             },
             {
                 "text": "When the Life Boat is in the trough of the waves;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "When the Life Boat is on the top of the wave;",
@@ -12904,21 +12882,21 @@
             },
             {
                 "text": "Way for abandoning:\nEvacuation chute\n",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Embarkation station.",
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_599.png"
+        "image": null
     },
     {
         "question": "When \"Abandon ship\" is given, the crew and passengers must go to:",
         "answers": [
             {
                 "text": "To the Life Boat in accordance with the Muster List;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "The nearest Life Boat;",
@@ -12952,17 +12930,17 @@
             },
             {
                 "text": "Emergency radio buoy.",
-                "correct": false
+                "correct": true
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_602.png"
+        "image": null
     },
     {
         "question": "What is the way to abandon the ship?",
         "answers": [
             {
                 "text": "Do not jump, take your place in the Life Boat according to Muster List;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Jump in the water from the aft / back of the ship;",
@@ -12988,7 +12966,7 @@
             },
             {
                 "text": "Parashute rocket  flare;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Hand flares;",
@@ -12999,7 +12977,7 @@
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_604.png"
+        "image": null
     },
     {
         "question": "Fully flooded, with equipment, survivors, and supply, the Life Boat will sink as deep as:",
@@ -13018,7 +12996,7 @@
             },
             {
                 "text": "Up to the gunwale.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -13036,21 +13014,21 @@
             },
             {
                 "text": "Emergency Escape Breathing Device;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Anti-exposure mask.",
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_606.png"
+        "image": null
     },
     {
         "question": "Totally enclosed Life Boat are powered by:",
         "answers": [
             {
                 "text": "Diesel engines;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Petrol engine and sales;",
@@ -13076,7 +13054,7 @@
             },
             {
                 "text": "The first anti seasickness pill must be taken ASAP after boarding;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Lifeboat Commander distributes first pill 2 hours after boarding;",
@@ -13098,7 +13076,7 @@
             },
             {
                 "text": "Search And Rescue Transponder;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Emergency radio buoy;",
@@ -13109,7 +13087,7 @@
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_609.png"
+        "image": null
     },
     {
         "question": "What is the amount of the pyrotechnical equipment  in the Life Boat?",
@@ -13128,7 +13106,7 @@
             },
             {
                 "text": "6 ps. Hand flares,    4 ps. Parachute rockets, \n2 ps. Buoyant smoke signals.\n",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -13146,7 +13124,7 @@
             },
             {
                 "text": "Less than 6 m;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "From every convenient place.",
@@ -13172,10 +13150,10 @@
             },
             {
                 "text": "5 minutes.",
-                "correct": false
+                "correct": true
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_613.png"
+        "image": null
     },
     {
         "question": "What should be the speed of Rescue Boat?",
@@ -13186,7 +13164,7 @@
             },
             {
                 "text": "Rescue boats shall be capable of manoeuvring at a speed of at least 6 knots;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Rescue boats shall be capable of manoeuvring at a speed of at least 10 knots;",
@@ -13197,14 +13175,14 @@
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_614.png"
+        "image": null
     },
     {
         "question": "What does this symbol mean?",
         "answers": [
             {
                 "text": "Emergency equipment - Portable VHF Radio;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Search and Rescue Radar transponder;",
@@ -13219,7 +13197,7 @@
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_615.png"
+        "image": null
     },
     {
         "question": "What should be the speed for towing of Life Rafts by Rescue Boats?",
@@ -13234,7 +13212,7 @@
             },
             {
                 "text": "Speed of at least 2 knots;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Speed of at least 10 knots;",
@@ -13252,7 +13230,7 @@
             },
             {
                 "text": "MOB type Lifebuoy;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Lifebuoy with 30 meters line;",
@@ -13263,14 +13241,14 @@
                 "correct": false
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_617.png"
+        "image": null
     },
     {
         "question": "What must to be flashpoint of the fuel for the Lifeboat engine?",
         "answers": [
             {
                 "text": "43°C or less;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "71°C or less;",
@@ -13296,7 +13274,7 @@
             },
             {
                 "text": "At a distance of at least 230 m in calm weather;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "At a distance of at least 130 m;",
@@ -13322,7 +13300,7 @@
             },
             {
                 "text": "For boarding and abandoning after the signal ”Abandon ship”!",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "For catching, to the Grab lines only.",
@@ -13336,7 +13314,7 @@
         "answers": [
             {
                 "text": "Shall be at least 6 knots;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Shall be at least 8 knots;",
@@ -13370,10 +13348,10 @@
             },
             {
                 "text": "Line Trowing Appliance.",
-                "correct": false
+                "correct": true
             }
         ],
-        "image": "images/A_II_1_OOW_on_ships_500GT_or_more_–_F3_Control_ENG_0_2_row_622.png"
+        "image": null
     },
     {
         "question": "What have to be water ration per person in the Lifeboat?",
@@ -13388,7 +13366,7 @@
             },
             {
                 "text": "3 liters of fresh water for each person;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "4 liters of fresh water for each person.",
@@ -13406,7 +13384,7 @@
             },
             {
                 "text": "1,5 liters of fresh water for each person;",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "2 liters of fresh water for each person;",
