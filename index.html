@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marine Exam App</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>Marine Exam Trainer</h1>
+
+        <div class="card">
+
+            <label>Select Subject</label>
+
+            <select id="subject">
+                <option value="colreg.json">COLREG</option>
+                <option value="navigation.json">Navigation</option>
+                <option value="physics.json">Physics</option>
+            </select>
+
+            <label>Select Mode</label>
+
+            <select id="mode">
+                <option value="45">Random 45 Questions</option>
+                <option value="all">Full Exam</option>
+            </select>
+
+            <button onclick="startQuiz()">
+                Start Quiz
+            </button>
+
+        </div>
+
+    </div>
+
+    <script>
+        function startQuiz() {
+
+            const subject =
+                document.getElementById("subject").value;
+
+            const mode =
+                document.getElementById("mode").value;
+
+            window.location.href =
+                `quiz.html?subject=${subject}&mode=${mode}`;
+        }
+    </script>
+
+</body>
+</html>
