@@ -250,7 +250,7 @@
             },
             {
                 "text": "non-cohesive cargos.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "grain cargo.",
@@ -290,7 +290,7 @@
         "answers": [
             {
                 "text": "a number indicating the volume in cubic meters of 1 tonne of the cargo.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "a number indicating the weight in tonnes of 1 cubic meter of cargo.",
@@ -686,7 +686,7 @@
         "answers": [
             {
                 "text": "applies to all solid bulk cargoes including  grain.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "is only for solid  bulk cargoes.",
@@ -730,7 +730,7 @@
         "answers": [
             {
                 "text": "applies to all bulk cargoes including grain",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "is only for solid bulk cargoes.",
@@ -1068,7 +1068,7 @@
             },
             {
                 "text": "Because the diagram of dynamic stability is obtained by integration of the static diagram and the intermediate results are the areas.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Because it is assumed that during the voyage, the grain will shift dynamically.",
@@ -1486,7 +1486,7 @@
             },
             {
                 "text": "in summer zone, but for small craft North of 440N-winter 01. XII until 01. III.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "in summer zone, but for small craft North of 440N – winter all year round.",
@@ -1526,7 +1526,7 @@
             },
             {
                 "text": "Type А are tankers, and type В are all the other ships.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Type A is standard, and type B is with increased freeboard.",
@@ -1552,7 +1552,7 @@
             },
             {
                 "text": "the distance from the summer to the fresh water load line.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "the distance from the  rudder shaft to the main line.",
@@ -1570,7 +1570,7 @@
             },
             {
                 "text": "the cargo holds and ballast tanks designed for the carriage of grain in bulk.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "the cargo holds and ballast tanks for fuel.",
@@ -1596,7 +1596,7 @@
             },
             {
                 "text": "Yes, in the Tonnage Certificates of the Suez and the Panama Canal.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Yes, in Tonnage Certificates of passenger ships.",
@@ -1622,7 +1622,7 @@
             },
             {
                 "text": "two wedge on one side only.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -1636,7 +1636,7 @@
             },
             {
                 "text": "is the estimated strength of the weakest link of the lashing line.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "breaking strength of the strongest links of the lashing line.",
@@ -1662,7 +1662,7 @@
             },
             {
                 "text": "1.35 taking into account the  horizontal angles (b) of lashing, but 1.50 if ignored.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "1.50 in the old edition of the code, replaced with 1.35 in new.",
@@ -1710,7 +1710,7 @@
             },
             {
                 "text": "Bulk carriers with reduced freeboard.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -1724,7 +1724,7 @@
             },
             {
                 "text": "are general cargo vessels.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "are bulk carriers.",
@@ -1768,7 +1768,7 @@
             },
             {
                 "text": "the density of liquids.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "the wind speed or the ventilation air.",
@@ -1798,7 +1798,7 @@
             },
             {
                 "text": "Should preferably not exceed 3% of the breadth of the ship.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -1808,7 +1808,7 @@
         "answers": [
             {
                 "text": "Cohesions and not cohesion.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Chemical hazard.",
@@ -1838,7 +1838,7 @@
             },
             {
                 "text": "Bay; Row (Stack); Tier.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Row (Stack); Tier; Bay.",
@@ -1852,7 +1852,7 @@
         "answers": [
             {
                 "text": "recommended.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "mandatory.",
@@ -2102,7 +2102,7 @@
             },
             {
                 "text": "SOLAS",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "LL'66",
@@ -2612,7 +2612,7 @@
             },
             {
                 "text": "Load Line'66.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -4206,7 +4206,7 @@
         "answers": [
             {
                 "text": "To measure the oxygen content of the inert gas, 1 meter below deck and in the middle of the tank ullage.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "To measure the oxygen content of the pump room and on the bridge.",
@@ -4416,7 +4416,7 @@
             },
             {
                 "text": "smell.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -5050,7 +5050,7 @@
             },
             {
                 "text": "at a distance of 3 meters or by a steel bulkhead or deck.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "at a distance of 15 meters.",
@@ -5362,7 +5362,7 @@
             },
             {
                 "text": "Vertical distance measured from the top of the keel to the top of the freeboard deck beam at side.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -5380,7 +5380,7 @@
             },
             {
                 "text": "is less than the DRAUGHT on PLIMSO MARK with keel thickness.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "is equal to the DRAUGHT ON PLIMSOL MARK.",
@@ -5406,7 +5406,7 @@
             },
             {
                 "text": "on departure, arrival and during the entire voyage.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -5472,7 +5472,7 @@
             },
             {
                 "text": "means the cargo receiver - consignee.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -5530,7 +5530,7 @@
             },
             {
                 "text": "the exact name of the hazardous cargo in accordance with the IMDG Code.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "trade name of the hazardous cargo according to the IMDG Code.",
@@ -5548,7 +5548,7 @@
         "answers": [
             {
                 "text": "classes 6.2 and 7",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "class 1",
@@ -5582,7 +5582,7 @@
             },
             {
                 "text": "Subsidiary risk class 3",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -5596,7 +5596,7 @@
             },
             {
                 "text": "comparison of the corrected metacentric height with the allowable one.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "diagram of dynamic resistance.",
@@ -5622,7 +5622,7 @@
             },
             {
                 "text": "> 12 seconds.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "< 9 seconds.",
@@ -5644,11 +5644,11 @@
             },
             {
                 "text": "Is not allowed due to increased resistance and excess fuel.",
-                "correct": true
+                "correct": false
             },
             {
                 "text": "Is not allowed due to dangerous slamming loads.",
-                "correct": true
+                "correct": false
             }
         ],
         "image": null
@@ -5662,7 +5662,7 @@
             },
             {
                 "text": "safe working load.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "minimum load.",
@@ -5692,7 +5692,7 @@
             },
             {
                 "text": "Dangerous cargo in bulk.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -5702,7 +5702,7 @@
         "answers": [
             {
                 "text": "correction the observed volume to a volume with different temperature.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "correction to the volume of bulk cargo.",
@@ -5728,7 +5728,7 @@
             },
             {
                 "text": "Annex III.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Annex IV.",
@@ -5758,7 +5758,7 @@
             },
             {
                 "text": "in the SOLAS regulation II-2 (19).",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -5772,7 +5772,7 @@
             },
             {
                 "text": "between the machinery space and cargo space.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "between the forepeak and the first cargo space.",
@@ -5790,7 +5790,7 @@
         "answers": [
             {
                 "text": "of each even-numbered year.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "of five years.",
@@ -5812,7 +5812,7 @@
         "answers": [
             {
                 "text": "two years after issuance.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "two months after the release.",
@@ -5838,7 +5838,7 @@
             },
             {
                 "text": "dangerous goods which are interested to terrorist organizations.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Perishable dangerous goods.",
@@ -5864,7 +5864,7 @@
             },
             {
                 "text": "as the expected exposure is over 6 mSv per year.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "in the expected exposure above 10 mSv per year.",
@@ -5882,7 +5882,7 @@
             },
             {
                 "text": "In the note 900 in Chapter 3.3 ",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "At the beginning of the second part of the code.",
@@ -5900,7 +5900,7 @@
         "answers": [
             {
                 "text": "car or railway wagon or freight container.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Association of load forwarders did.",
@@ -5926,7 +5926,7 @@
             },
             {
                 "text": "the type of danger.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "the danger to human health.",
@@ -5952,7 +5952,7 @@
             },
             {
                 "text": "The good is marked under a common name, such as corrosive - fluid, flammable fluid, etc.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "The substance is not noted in the DGL.",
@@ -5966,7 +5966,7 @@
         "answers": [
             {
                 "text": "equivalent to 3 meters in height stow, including test package.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "equivalent of stow with height 3 m, over the test package.",
@@ -5992,7 +5992,7 @@
             },
             {
                 "text": "mandatory.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "only if it produces more than 200 packages a month.",
@@ -6010,7 +6010,7 @@
         "answers": [
             {
                 "text": "accordingly for: I-dangerous; II-less dangerous; and III-at least hazardous cargo.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "accordingly : III – dangerous; II-less dangerous; and I at least hazardous cargo.",
@@ -6036,7 +6036,7 @@
             },
             {
                 "text": "This is the correct name of dangerous cargo, so as it appears in Part III – DGL table in IMDG Code.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "This is the trade name of a dangerous cargo.",
@@ -6054,7 +6054,7 @@
         "answers": [
             {
                 "text": "is recorded as PSN, as in the DGL-with capital letters.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "is the original name of the cargo set by the shipper.",
@@ -6080,7 +6080,7 @@
             },
             {
                 "text": "It can be used, but only in addition to PSN with this-in brackets and with uppercase and lowercase letters.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "exists in the code and should be used.",
@@ -6106,7 +6106,7 @@
             },
             {
                 "text": "If the surface radiation exceeds 2 mSv/h.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "If the surface radiation exceeds 100 mSv/h.",
@@ -6120,7 +6120,7 @@
         "answers": [
             {
                 "text": "Appendix 14 of the MFAG.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Part 2.2.2 of the IMDG Code.",
@@ -6146,7 +6146,7 @@
             },
             {
                 "text": "are recommendatory",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "not subject to IMDG.",
@@ -6176,7 +6176,7 @@
             },
             {
                 "text": "three years.",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -6194,7 +6194,7 @@
             },
             {
                 "text": "Yes, for example, PAINT.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "If there is, it's a matter of typographical error.",
@@ -6208,7 +6208,7 @@
         "answers": [
             {
                 "text": "Lack of special pumping system and pumping compartment.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Lack of a CO2 system in the holds.",
@@ -6234,7 +6234,7 @@
             },
             {
                 "text": "Because there is no bulkhead type A-60.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Lack of a CO2 system in the holds.",
@@ -6264,7 +6264,7 @@
             },
             {
                 "text": "Stowage category  D",
-                "correct": false
+                "correct": true
             }
         ],
         "image": null
@@ -6274,7 +6274,7 @@
         "answers": [
             {
                 "text": "S-A; S-B, etc.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "S-1; S-2, etc.",
@@ -6300,7 +6300,7 @@
             },
             {
                 "text": "one letter - Р",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "a large black point •",
@@ -6326,7 +6326,7 @@
             },
             {
                 "text": "The use of multi-gas detectors.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "It is recommended that the use of the check-list.",
@@ -6340,7 +6340,7 @@
         "answers": [
             {
                 "text": "any space which is not intended for prolonged stay of people.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "only double bottoms, fuel tanks, ballast tanks.",
@@ -6546,7 +6546,7 @@
             },
             {
                 "text": "Applyies for tankers and bulk carriers.",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "applies to passenger ships with more than 400 seats for passengers.",
