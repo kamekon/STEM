@@ -1,42 +1,40 @@
-const urlParams = new URLSearchParams(window.location.search);
+const urlParams =
+    new URLSearchParams(window.location.search);
 
-const subject = urlParams.get("subject");
-const mode = urlParams.get("mode");
+const subject =
+    urlParams.get("subject");
 
-let questions = [];
-let currentQuestion = 0;
+const mode =
+    urlParams.get("mode");
+
+const quizContainer =
+    document.getElementById("quiz-container");
+
+const finishButton =
+    document.getElementById("finish-button");
+
+const resultContainer =
+    document.getElementById("result-container");
+
 let mistakes = 0;
-
-const questionNumber =
-    document.getElementById("question-number");
-
-const questionText =
-    document.getElementById("question-text");
-
-const questionImage =
-    document.getElementById("question-image");
-
-const answersContainer =
-    document.getElementById("answers");
-
-const nextButton =
-    document.getElementById("next-button");
 
 async function loadQuestions() {
 
     const response =
         await fetch(`data/${subject}`);
 
-    questions = await response.json();
+    let questions =
+        await response.json();
 
     shuffleArray(questions);
 
     if (mode !== "all") {
+
         questions =
             questions.slice(0, parseInt(mode));
     }
 
-    showQuestion();
+    renderQuestions(questions);
 }
 
 function shuffleArray(array) {
@@ -51,53 +49,73 @@ function shuffleArray(array) {
     }
 }
 
-function showQuestion() {
+function renderQuestions(questions) {
 
-    nextButton.style.display = "none";
+    questions.forEach((q, index) => {
 
-    const q = questions[currentQuestion];
+        const questionDiv =
+            document.createElement("div");
 
-    questionNumber.innerText =
-        `Question ${currentQuestion + 1} / ${questions.length}`;
+        questionDiv.classList.add("question-card");
 
-    questionText.innerText =
-        q.question;
+        let imageHTML = "";
 
-    answersContainer.innerHTML = "";
+        if (q.image) {
 
-    if (q.image) {
+            imageHTML = `
+                <img
+                    src="${q.image}"
+                    class="question-image"
+                >
+            `;
+        }
 
-        questionImage.src = q.image;
-        questionImage.style.display = "block";
+        questionDiv.innerHTML = `
+            <h3>
+                ${index + 1}. ${q.question}
+            </h3>
 
-    } else {
+            ${imageHTML}
 
-        questionImage.style.display = "none";
-    }
+            <div class="answers"></div>
+        `;
 
-    shuffleArray(q.answers);
+        const answersDiv =
+            questionDiv.querySelector(".answers");
 
-    q.answers.forEach(answer => {
+        shuffleArray(q.answers);
 
-        const button =
-            document.createElement("button");
+        q.answers.forEach(answer => {
 
-        button.innerText =
-            answer.text;
+            const button =
+                document.createElement("button");
 
-        button.classList.add("answer-button");
+            button.innerText =
+                answer.text;
 
-        button.onclick = () =>
-            selectAnswer(button, answer.correct);
+            button.classList.add("answer-button");
 
-        answersContainer.appendChild(button);
+            button.onclick = () =>
+                handleAnswer(
+                    button,
+                    q.answers,
+                    answer.correct
+                );
+
+            answersDiv.appendChild(button);
+        });
+
+        quizContainer.appendChild(questionDiv);
     });
 }
 
-function selectAnswer(button, correct) {
+function handleAnswer(button, answers, correct) {
+
+    const parent =
+        button.parentElement;
 
     const buttons =
-        document.querySelectorAll(".answer-button");
+        parent.querySelectorAll("button");
 
     buttons.forEach(btn => {
         btn.disabled = true;
@@ -115,56 +133,45 @@ function selectAnswer(button, correct) {
 
         buttons.forEach(btn => {
 
-            const answer =
-                questions[currentQuestion]
-                .answers.find(a => a.text === btn.innerText);
+            const matching =
+                answers.find(
+                    a => a.text === btn.innerText
+                );
 
-            if (answer.correct) {
+            if (matching.correct) {
+
                 btn.classList.add("correct");
             }
         });
     }
-
-    nextButton.style.display = "block";
 }
 
-nextButton.onclick = () => {
+finishButton.onclick = () => {
 
-    currentQuestion++;
-
-    if (currentQuestion >= questions.length) {
-
-        finishQuiz();
-
-    } else {
-
-        showQuestion();
-    }
-};
-
-function finishQuiz() {
-
-    document.getElementById("quiz-container")
-        .style.display = "none";
-
-    document.getElementById("result-container")
-        .style.display = "block";
+    const total =
+        document.querySelectorAll(".question-card")
+        .length;
 
     const correct =
-        questions.length - mistakes;
+        total - mistakes;
 
     const percent =
-        Math.round((correct / questions.length) * 100);
+        Math.round((correct / total) * 100);
 
-    document.getElementById("score").innerHTML = `
-        Correct: ${correct}<br>
-        Mistakes: ${mistakes}<br>
-        Score: ${percent}%
+    resultContainer.innerHTML = `
+        <h2>Results</h2>
+
+        <p>Correct: ${correct}</p>
+
+        <p>Mistakes: ${mistakes}</p>
+
+        <p>Score: ${percent}%</p>
     `;
-}
 
-function goHome() {
-    window.location.href = "index.html";
-}
+    window.scrollTo({
+        top: document.body.scrollHeight,
+        behavior: "smooth"
+    });
+};
 
 loadQuestions();
