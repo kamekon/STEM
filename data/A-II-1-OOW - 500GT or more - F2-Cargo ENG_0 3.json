@@ -554,7 +554,7 @@
         "answers": [
             {
                 "text": "0,10 m",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "0,24 m",
